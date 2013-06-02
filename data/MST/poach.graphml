@@ -1,0 +1,2919 @@
+<?xml version="1.0" encoding="utf-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="int" for="edge" id="d6" />
+  <key attr.name="weight" attr.type="double" for="edge" id="d5" />
+  <key attr.name="freq" attr.type="int" for="edge" id="d4" />
+  <key attr.name="meaning" attr.type="string" for="node" id="d3" />
+  <key attr.name="roothub" attr.type="string" for="node" id="d2" />
+  <key attr.name="score" attr.type="double" for="node" id="d1" />
+  <key attr.name="freq" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="coach">
+      <data key="d0">29</data>
+      <data key="d1">0.400753768844</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="salt">
+      <data key="d0">11</data>
+      <data key="d1">0.536585365854</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="office">
+      <data key="d0">16</data>
+      <data key="d1">0.394618834081</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="cheese">
+      <data key="d0">37</data>
+      <data key="d1">0.32103354216</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="poach" />
+    <node id="muffin">
+      <data key="d0">17</data>
+      <data key="d1">1.0</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="green">
+      <data key="d0">18</data>
+      <data key="d1">0.6</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="recipe">
+      <data key="d0">43</data>
+      <data key="d1">0.651515151515</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="month">
+      <data key="d0">22</data>
+      <data key="d1">0.245238950773</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="playful">
+      <data key="d0">12</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="report">
+      <data key="d0">49</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="mile">
+      <data key="d0">23</data>
+      <data key="d1">0.602465331279</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="cocky">
+      <data key="d0">12</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="thanks">
+      <data key="d0">21</data>
+      <data key="d1">0.617647058823</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="oven">
+      <data key="d0">11</data>
+      <data key="d1">0.846153846154</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="dish">
+      <data key="d0">45</data>
+      <data key="d1">0.642857142857</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="corner">
+      <data key="d0">7</data>
+      <data key="d1">0.254142617762</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="chicken">
+      <data key="d0">53</data>
+      <data key="d1">0.389129092032</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="rhino">
+      <data key="d0">31</data>
+      <data key="d1">0.201310019116</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="calamari">
+      <data key="d0">15</data>
+      <data key="d1">0.379289584588</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="toast">
+      <data key="d0">28</data>
+      <data key="d1">0.965517241379</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="style">
+      <data key="d0">10</data>
+      <data key="d1">0.332307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="position">
+      <data key="d0">18</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="ham">
+      <data key="d0">13</data>
+      <data key="d1">0.8125</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="hunting">
+      <data key="d0">40</data>
+      <data key="d1">0.182005185842</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="cup">
+      <data key="d0">22</data>
+      <data key="d1">0.647058823529</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="justice">
+      <data key="d0">10</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="reserve">
+      <data key="d0">16</data>
+      <data key="d1">0.306425136077</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="young">
+      <data key="d0">30</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="crime">
+      <data key="d0">19</data>
+      <data key="d1">0.201035177721</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="penalty">
+      <data key="d0">11</data>
+      <data key="d1">0.571428571429</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="violation">
+      <data key="d0">9</data>
+      <data key="d1">0.245238950773</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="foursquare">
+      <data key="d0">16</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="black">
+      <data key="d0">36</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="rick">
+      <data key="d0">12</data>
+      <data key="d1">0.307822147204</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="easy">
+      <data key="d0">19</data>
+      <data key="d1">0.633333333333</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="factor">
+      <data key="d0">11</data>
+      <data key="d1">0.733333333334</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="employee">
+      <data key="d0">18</data>
+      <data key="d1">0.310539523212</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="pocketbook">
+      <data key="d0">6</data>
+      <data key="d1">0.337466445098</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="east">
+      <data key="d0">34</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="sauce">
+      <data key="d0">50</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="interested">
+      <data key="d0">10</data>
+      <data key="d1">0.322935779817</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="plate">
+      <data key="d0">11</data>
+      <data key="d1">0.846153846154</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="coffee">
+      <data key="d0">10</data>
+      <data key="d1">0.833333333333</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="good">
+      <data key="d0">89</data>
+      <data key="d1">0.428571428571</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="march">
+      <data key="d0">16</data>
+      <data key="d1">0.214634146341</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="combination">
+      <data key="d0">13</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="food">
+      <data key="d0">40</data>
+      <data key="d1">0.326071613419</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="big">
+      <data key="d0">100</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="bid">
+      <data key="d0">10</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="practice">
+      <data key="d0">23</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="fat">
+      <data key="d0">12</data>
+      <data key="d1">0.454054054054</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="choice">
+      <data key="d0">9</data>
+      <data key="d1">0.692307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="lunch">
+      <data key="d0">14</data>
+      <data key="d1">0.636363636363</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="bean">
+      <data key="d0">11</data>
+      <data key="d1">0.785714285714</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="perfect">
+      <data key="d0">16</data>
+      <data key="d1">0.666666666667</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="judge">
+      <data key="d0">11</data>
+      <data key="d1">0.326071613419</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="world">
+      <data key="d0">36</data>
+      <data key="d1">0.290962527553</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="bit">
+      <data key="d0">29</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="trade">
+      <data key="d0">32</data>
+      <data key="d1">0.223056702967</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="day">
+      <data key="d0">74</data>
+      <data key="d1">0.385120350109</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="minute">
+      <data key="d0">27</data>
+      <data key="d1">0.445611402851</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="bread">
+      <data key="d0">24</data>
+      <data key="d1">0.774193548387</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="loss">
+      <data key="d0">33</data>
+      <data key="d1">0.327272727273</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="school">
+      <data key="d0">33</data>
+      <data key="d1">0.195209152664</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="resource">
+      <data key="d0">26</data>
+      <data key="d1">0.305454545455</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="specie">
+      <data key="d0">39</data>
+      <data key="d1">0.325123152709</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="success">
+      <data key="d0">11</data>
+      <data key="d1">0.299217953077</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="level">
+      <data key="d0">24</data>
+      <data key="d1">0.182005185842</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="wine">
+      <data key="d0">25</data>
+      <data key="d1">0.595238095238</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="salmon">
+      <data key="d0">37</data>
+      <data key="d1">0.463121783877</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="sandwich">
+      <data key="d0">13</data>
+      <data key="d1">0.65</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="morning">
+      <data key="d0">19</data>
+      <data key="d1">0.76</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="bad">
+      <data key="d0">15</data>
+      <data key="d1">0.340909090909</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="serious">
+      <data key="d0">17</data>
+      <data key="d1">0.586206896552</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="common">
+      <data key="d0">17</data>
+      <data key="d1">0.307822147204</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="roast">
+      <data key="d0">18</data>
+      <data key="d1">0.312190287413</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="night">
+      <data key="d0">35</data>
+      <data key="d1">0.443349753695</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="small">
+      <data key="d0">31</data>
+      <data key="d1">0.596153846154</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="guy">
+      <data key="d0">23</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="stock">
+      <data key="d0">22</data>
+      <data key="d1">0.611111111111</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="automatic">
+      <data key="d0">11</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="meal">
+      <data key="d0">15</data>
+      <data key="d1">0.714285714286</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="turtle">
+      <data key="d0">27</data>
+      <data key="d1">0.653846153846</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="newspaper">
+      <data key="d0">10</data>
+      <data key="d1">0.23472889499</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="pork">
+      <data key="d0">15</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="official">
+      <data key="d0">21</data>
+      <data key="d1">0.398104265403</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="deal">
+      <data key="d0">15</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="people">
+      <data key="d0">47</data>
+      <data key="d1">0.241414913306</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="ed">
+      <data key="d0">9</data>
+      <data key="d1">0.818181818182</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="twitter">
+      <data key="d0">16</data>
+      <data key="d1">0.304498269896</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="bacon">
+      <data key="d0">27</data>
+      <data key="d1">0.794117647059</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="idea">
+      <data key="d0">24</data>
+      <data key="d1">0.316901408451</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="yolk">
+      <data key="d0">15</data>
+      <data key="d1">1.0</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="chef">
+      <data key="d0">23</data>
+      <data key="d1">0.69696969697</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="street">
+      <data key="d0">11</data>
+      <data key="d1">0.347003154574</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="lobster">
+      <data key="d0">26</data>
+      <data key="d1">0.577777777778</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="perspective">
+      <data key="d0">11</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="year">
+      <data key="d0">107</data>
+      <data key="d1">0.32092555332</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="tender">
+      <data key="d0">18</data>
+      <data key="d1">0.332307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="sport">
+      <data key="d0">20</data>
+      <data key="d1">0.148783055676</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="event">
+      <data key="d0">10</data>
+      <data key="d1">0.362903225807</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="man">
+      <data key="d0">25</data>
+      <data key="d1">0.568181818182</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="slice">
+      <data key="d0">14</data>
+      <data key="d1">0.736842105263</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="network">
+      <data key="d0">11</data>
+      <data key="d1">0.332307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="expert">
+      <data key="d0">11</data>
+      <data key="d1">0.273116438356</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="pneumonia">
+      <data key="d0">7</data>
+      <data key="d1">0.319496550889</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="classy">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="cooking">
+      <data key="d0">21</data>
+      <data key="d1">0.617647058823</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="fox">
+      <data key="d0">10</data>
+      <data key="d1">0.142425888028</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="legal">
+      <data key="d0">17</data>
+      <data key="d1">0.162829116453</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="research">
+      <data key="d0">16</data>
+      <data key="d1">0.200226298144</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="increase">
+      <data key="d0">18</data>
+      <data key="d1">0.490674318508</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="spinach">
+      <data key="d0">9</data>
+      <data key="d1">0.818181818182</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="state">
+      <data key="d0">41</data>
+      <data key="d1">0.276036400404</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="medicine">
+      <data key="d0">10</data>
+      <data key="d1">0.714285714286</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="international">
+      <data key="d0">27</data>
+      <data key="d1">0.264587973274</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="linebacker">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="red">
+      <data key="d0">25</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="body">
+      <data key="d0">9</data>
+      <data key="d1">0.331083697516</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="core">
+      <data key="d0">11</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="pepper">
+      <data key="d0">20</data>
+      <data key="d1">0.666666666667</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="august">
+      <data key="d0">17</data>
+      <data key="d1">0.5</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="business">
+      <data key="d0">31</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="pear">
+      <data key="d0">39</data>
+      <data key="d1">0.514285714286</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="team">
+      <data key="d0">77</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="french">
+      <data key="d0">24</data>
+      <data key="d1">0.705882352941</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="water">
+      <data key="d0">66</data>
+      <data key="d1">0.605504587156</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="wild">
+      <data key="d0">35</data>
+      <data key="d1">0.513513513514</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="reason">
+      <data key="d0">18</data>
+      <data key="d1">0.303215926493</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="protection">
+      <data key="d0">17</data>
+      <data key="d1">0.310602565286</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="kicker">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="opposition">
+      <data key="d0">11</data>
+      <data key="d1">0.294412847106</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="news">
+      <data key="d0">28</data>
+      <data key="d1">0.290152403283</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="post">
+      <data key="d0">28</data>
+      <data key="d1">0.307167235495</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="great">
+      <data key="d0">44</data>
+      <data key="d1">0.611111111111</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="piece">
+      <data key="d0">14</data>
+      <data key="d1">0.636363636363</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="organic">
+      <data key="d0">10</data>
+      <data key="d1">0.909090909091</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="service">
+      <data key="d0">21</data>
+      <data key="d1">0.385120350109</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="division">
+      <data key="d0">10</data>
+      <data key="d1">0.303343674595</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="country">
+      <data key="d0">53</data>
+      <data key="d1">0.307822147204</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="jay">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="favorite">
+      <data key="d0">20</data>
+      <data key="d1">0.642857142857</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="job">
+      <data key="d0">23</data>
+      <data key="d1">0.297297297297</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="shrimp">
+      <data key="d0">14</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="dinner">
+      <data key="d0">11</data>
+      <data key="d1">0.6875</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="abuse">
+      <data key="d0">16</data>
+      <data key="d1">0.374308804764</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="place">
+      <data key="d0">33</data>
+      <data key="d1">0.559322033898</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="massive">
+      <data key="d0">11</data>
+      <data key="d1">0.320369640433</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="threat">
+      <data key="d0">45</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="illegal">
+      <data key="d0">41</data>
+      <data key="d1">0.272713715841</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="action">
+      <data key="d0">16</data>
+      <data key="d1">0.435643564356</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="gingerbread">
+      <data key="d0">9</data>
+      <data key="d1">0.514285714286</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="south">
+      <data key="d0">29</data>
+      <data key="d1">0.307167235495</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="york">
+      <data key="d0">11</data>
+      <data key="d1">0.50499001996</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="comment">
+      <data key="d0">38</data>
+      <data key="d1">0.251788268956</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="golden">
+      <data key="d0">10</data>
+      <data key="d1">0.769230769231</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="love">
+      <data key="d0">11</data>
+      <data key="d1">0.647058823529</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="apple">
+      <data key="d0">27</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="family">
+      <data key="d0">23</data>
+      <data key="d1">0.575</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="extra">
+      <data key="d0">11</data>
+      <data key="d1">0.785714285714</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="simple">
+      <data key="d0">15</data>
+      <data key="d1">0.78947368421</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="sweet">
+      <data key="d0">16</data>
+      <data key="d1">0.761904761905</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="number">
+      <data key="d0">40</data>
+      <data key="d1">0.356568364611</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="community">
+      <data key="d0">11</data>
+      <data key="d1">0.302508845288</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="county">
+      <data key="d0">10</data>
+      <data key="d1">0.294816414687</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="appropriate">
+      <data key="d0">8</data>
+      <data key="d1">0.727272727273</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="cold">
+      <data key="d0">18</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="delicious">
+      <data key="d0">33</data>
+      <data key="d1">0.622641509434</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="blog">
+      <data key="d0">19</data>
+      <data key="d1">0.260789995425</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="tony">
+      <data key="d0">18</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="table">
+      <data key="d0">17</data>
+      <data key="d1">0.297536816424</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="extinction">
+      <data key="d0">16</data>
+      <data key="d1">0.306425136077</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="market">
+      <data key="d0">28</data>
+      <data key="d1">0.56</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="conference">
+      <data key="d0">27</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="decline">
+      <data key="d0">19</data>
+      <data key="d1">0.76</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="use">
+      <data key="d0">18</data>
+      <data key="d1">0.160860380074</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="management">
+      <data key="d0">26</data>
+      <data key="d1">0.571428571429</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="habitat">
+      <data key="d0">58</data>
+      <data key="d1">0.380038387716</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="jet">
+      <data key="d0">23</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="area">
+      <data key="d0">55</data>
+      <data key="d1">0.423076923077</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="addition">
+      <data key="d0">22</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="west">
+      <data key="d0">33</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="warden">
+      <data key="d0">9</data>
+      <data key="d1">0.264564404062</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="question">
+      <data key="d0">38</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="long">
+      <data key="d0">15</data>
+      <data key="d1">0.625</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="mark">
+      <data key="d0">30</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="creamy">
+      <data key="d0">9</data>
+      <data key="d1">0.692307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="program">
+      <data key="d0">20</data>
+      <data key="d1">0.228691099476</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="way">
+      <data key="d0">66</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="biggest">
+      <data key="d0">31</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="conservation">
+      <data key="d0">38</data>
+      <data key="d1">0.33110367893</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="white">
+      <data key="d0">31</data>
+      <data key="d1">0.632653061225</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="gut">
+      <data key="d0">10</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="amazing">
+      <data key="d0">13</data>
+      <data key="d1">0.402753872633</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="fish">
+      <data key="d0">49</data>
+      <data key="d1">0.446808510638</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="friend">
+      <data key="d0">15</data>
+      <data key="d1">0.6</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="pm">
+      <data key="d0">68</data>
+      <data key="d1">0.357578220236</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="sort">
+      <data key="d0">26</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="enforcement">
+      <data key="d0">14</data>
+      <data key="d1">0.571428571429</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="ivory">
+      <data key="d0">32</data>
+      <data key="d1">0.592592592593</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="spicy">
+      <data key="d0">10</data>
+      <data key="d1">0.568421052632</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="north">
+      <data key="d0">11</data>
+      <data key="d1">0.376712328767</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="champion">
+      <data key="d0">14</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="mushroom">
+      <data key="d0">10</data>
+      <data key="d1">0.666666666667</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="season">
+      <data key="d0">30</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="company">
+      <data key="d0">32</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="park">
+      <data key="d0">44</data>
+      <data key="d1">0.367346938776</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="wildlife">
+      <data key="d0">61</data>
+      <data key="d1">0.362288135593</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="tiger">
+      <data key="d0">55</data>
+      <data key="d1">0.388207822534</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="part">
+      <data key="d0">44</data>
+      <data key="d1">0.288614553696</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="stick">
+      <data key="d0">17</data>
+      <data key="d1">0.772727272727</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="olive">
+      <data key="d0">11</data>
+      <data key="d1">0.733333333334</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="remote">
+      <data key="d0">10</data>
+      <data key="d1">0.245238950773</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="line">
+      <data key="d0">16</data>
+      <data key="d1">0.642857142857</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="horn">
+      <data key="d0">9</data>
+      <data key="d1">0.201310019116</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="effort">
+      <data key="d0">24</data>
+      <data key="d1">0.271232876712</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="potential">
+      <data key="d0">16</data>
+      <data key="d1">0.357578220236</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="spice">
+      <data key="d0">10</data>
+      <data key="d1">0.466321243523</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="case">
+      <data key="d0">55</data>
+      <data key="d1">0.263717156105</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="kind">
+      <data key="d0">23</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="liquid">
+      <data key="d0">20</data>
+      <data key="d1">0.339661482159</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="hour">
+      <data key="d0">22</data>
+      <data key="d1">0.642857142857</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="player">
+      <data key="d0">39</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="local">
+      <data key="d0">36</data>
+      <data key="d1">0.265940902022</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="bill">
+      <data key="d0">14</data>
+      <data key="d1">0.415094339623</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="recruit">
+      <data key="d0">15</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="soup">
+      <data key="d0">19</data>
+      <data key="d1">0.76</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="aggressive">
+      <data key="d0">12</data>
+      <data key="d1">0.294412847106</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="client">
+      <data key="d0">15</data>
+      <data key="d1">0.302752293578</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="fun">
+      <data key="d0">10</data>
+      <data key="d1">0.511363636364</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="college">
+      <data key="d0">9</data>
+      <data key="d1">0.191064971422</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="problem">
+      <data key="d0">38</data>
+      <data key="d1">0.25778874168</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="fried">
+      <data key="d0">20</data>
+      <data key="d1">0.714285714286</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="acquisition">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="social">
+      <data key="d0">19</data>
+      <data key="d1">0.310405643739</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="beautiful">
+      <data key="d0">21</data>
+      <data key="d1">0.449416342412</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="firm">
+      <data key="d0">22</data>
+      <data key="d1">0.379310344828</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="money">
+      <data key="d0">23</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="talent">
+      <data key="d0">35</data>
+      <data key="d1">0.167470652204</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="brown">
+      <data key="d0">13</data>
+      <data key="d1">0.619047619047</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="taste">
+      <data key="d0">13</data>
+      <data key="d1">0.619047619047</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="broth">
+      <data key="d0">14</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="cattle">
+      <data key="d0">10</data>
+      <data key="d1">0.210518237479</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="share">
+      <data key="d0">18</data>
+      <data key="d1">0.415094339623</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="ginger">
+      <data key="d0">14</data>
+      <data key="d1">0.448398576513</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="sale">
+      <data key="d0">20</data>
+      <data key="d1">0.226405750675</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="ii">
+      <data key="d0">11</data>
+      <data key="d1">0.542986996591</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="raw">
+      <data key="d0">9</data>
+      <data key="d1">0.692307692308</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="villain">
+      <data key="d0">12</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="tag">
+      <data key="d0">18</data>
+      <data key="d1">0.415094339623</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="wonderful">
+      <data key="d0">16</data>
+      <data key="d1">0.64</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="plan">
+      <data key="d0">20</data>
+      <data key="d1">0.435643564356</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="activity">
+      <data key="d0">25</data>
+      <data key="d1">0.232188315357</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="border">
+      <data key="d0">11</data>
+      <data key="d1">0.320369640433</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="breakfast">
+      <data key="d0">39</data>
+      <data key="d1">0.928571428571</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="cream">
+      <data key="d0">25</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="goat">
+      <data key="d0">17</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="cuisine">
+      <data key="d0">11</data>
+      <data key="d1">0.346621317461</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="beef">
+      <data key="d0">19</data>
+      <data key="d1">0.678571428572</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="pat">
+      <data key="d0">13</data>
+      <data key="d1">0.307167235495</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="national">
+      <data key="d0">30</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="veteran">
+      <data key="d0">26</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="department">
+      <data key="d0">26</data>
+      <data key="d1">0.345788473717</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="trip">
+      <data key="d0">12</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="member">
+      <data key="d0">22</data>
+      <data key="d1">0.35696455317</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="endangered">
+      <data key="d0">28</data>
+      <data key="d1">0.27152512489</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="hot">
+      <data key="d0">22</data>
+      <data key="d1">0.625</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="squad">
+      <data key="d0">10</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="bear">
+      <data key="d0">23</data>
+      <data key="d1">0.159312848351</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="forest">
+      <data key="d0">28</data>
+      <data key="d1">0.571428571429</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="animal">
+      <data key="d0">68</data>
+      <data key="d1">0.233097880928</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="elephant">
+      <data key="d0">53</data>
+      <data key="d1">0.507936507937</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="vegetable">
+      <data key="d0">17</data>
+      <data key="d1">0.739130434782</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="tech">
+      <data key="d0">16</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="dozen">
+      <data key="d0">13</data>
+      <data key="d1">0.413773148148</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="leek">
+      <data key="d0">19</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="nice">
+      <data key="d0">34</data>
+      <data key="d1">0.44262295082</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="week">
+      <data key="d0">38</data>
+      <data key="d1">0.35696455317</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="stone">
+      <data key="d0">10</data>
+      <data key="d1">0.245238950773</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="oil">
+      <data key="d0">18</data>
+      <data key="d1">0.611111111111</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="multiple">
+      <data key="d0">17</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="salad">
+      <data key="d0">14</data>
+      <data key="d1">0.736842105263</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="mountain">
+      <data key="d0">28</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="jun">
+      <data key="d0">11</data>
+      <data key="d1">0.357578220236</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="nest">
+      <data key="d0">19</data>
+      <data key="d1">0.611742424242</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="football">
+      <data key="d0">18</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="southern">
+      <data key="d0">11</data>
+      <data key="d1">0.294412847106</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="yesterday">
+      <data key="d0">13</data>
+      <data key="d1">0.684210526316</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="director">
+      <data key="d0">15</data>
+      <data key="d1">0.360262008734</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="push">
+      <data key="d0">11</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="important">
+      <data key="d0">11</data>
+      <data key="d1">0.55</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="power">
+      <data key="d0">16</data>
+      <data key="d1">0.383275261324</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="user">
+      <data key="d0">14</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="student">
+      <data key="d0">14</data>
+      <data key="d1">0.245238950773</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="fresh">
+      <data key="d0">25</data>
+      <data key="d1">0.675675675676</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="misfit">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="president">
+      <data key="d0">11</data>
+      <data key="d1">0.344707520891</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="information">
+      <data key="d0">17</data>
+      <data key="d1">0.441285537701</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="law">
+      <data key="d0">24</data>
+      <data key="d1">0.491228070176</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="oyster">
+      <data key="d0">10</data>
+      <data key="d1">0.568421052632</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="destruction">
+      <data key="d0">18</data>
+      <data key="d1">0.396793587174</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="butter">
+      <data key="d0">29</data>
+      <data key="d1">0.346709470305</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="land">
+      <data key="d0">24</data>
+      <data key="d1">0.196784155042</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="attempt">
+      <data key="d0">21</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="yelp">
+      <data key="d0">10</data>
+      <data key="d1">0.523809523809</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="potato">
+      <data key="d0">29</data>
+      <data key="d1">0.90625</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="population">
+      <data key="d3">Illegally hunt or catch (game or fish) on land that is not one's own, or in contravention of official protection</data>
+      <data key="d0">79</data>
+      <data key="d1">1.0</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="lot">
+      <data key="d0">34</data>
+      <data key="d1">0.433070866142</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="tomato">
+      <data key="d0">12</data>
+      <data key="d1">0.705882352941</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="game">
+      <data key="d0">70</data>
+      <data key="d1">0.290152403283</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="meat">
+      <data key="d0">28</data>
+      <data key="d1">0.595744680851</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="traditional">
+      <data key="d0">21</data>
+      <data key="d1">0.307822147204</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="person">
+      <data key="d0">12</data>
+      <data key="d1">0.666666666667</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="scrambled">
+      <data key="d0">10</data>
+      <data key="d1">1.0</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="poacher">
+      <data key="d0">51</data>
+      <data key="d1">0.432522123894</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="veal">
+      <data key="d0">8</data>
+      <data key="d1">0.379613356766</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="natural">
+      <data key="d0">24</data>
+      <data key="d1">0.256488549618</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="quixotic">
+      <data key="d0">10</data>
+      <data key="d1">0.474137931034</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="occasion">
+      <data key="d0">12</data>
+      <data key="d1">0.424528301887</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="district">
+      <data key="d0">12</data>
+      <data key="d1">0.235284026793</data>
+      <data key="d2">population</data>
+    </node>
+    <node id="first">
+      <data key="d0">39</data>
+      <data key="d1">0.534246575342</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="egg">
+      <data key="d3">Cook (an egg), without its shell, in or over boiling water</data>
+      <data key="d0">264</data>
+      <data key="d1">1.0</data>
+      <data key="d2">egg</data>
+    </node>
+    <node id="liver">
+      <data key="d0">18</data>
+      <data key="d1">0.369935408103</data>
+      <data key="d2">egg</data>
+    </node>
+    <edge source="coach" target="year">
+      <data key="d4">11</data>
+      <data key="d5">0.620689655172</data>
+    </edge>
+    <edge source="coach" target="team">
+      <data key="d4">12</data>
+      <data key="d5">0.586206896552</data>
+    </edge>
+    <edge source="salt" target="pepper">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="office" target="foursquare">
+      <data key="d4">6</data>
+      <data key="d5">0.625</data>
+    </edge>
+    <edge source="office" target="social">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="cheese" target="goat">
+      <data key="d4">10</data>
+      <data key="d5">0.411764705882</data>
+    </edge>
+    <edge source="poach" target="egg">
+      <data key="d6">0</data>
+    </edge>
+    <edge source="poach" target="population">
+      <data key="d6">0</data>
+    </edge>
+    <edge source="muffin" target="egg">
+      <data key="d4">17</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="green" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="recipe" target="egg">
+      <data key="d4">20</data>
+      <data key="d5">0.53488372093</data>
+    </edge>
+    <edge source="month" target="corner">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="playful" target="cocky">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="report" target="justice">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="report" target="abuse">
+      <data key="d4">15</data>
+      <data key="d5">0.0625</data>
+    </edge>
+    <edge source="mile" target="turtle">
+      <data key="d4">20</data>
+      <data key="d5">0.130434782609</data>
+    </edge>
+    <edge source="mile" target="ii">
+      <data key="d4">9</data>
+      <data key="d5">0.181818181818</data>
+    </edge>
+    <edge source="mile" target="poacher">
+      <data key="d4">8</data>
+      <data key="d5">0.652173913043</data>
+    </edge>
+    <edge source="cocky" target="conference">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="sort">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="kind">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="multiple">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="recruit">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="young">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="villain">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="way">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="occasion">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cocky" target="guy">
+      <data key="d4">12</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="thanks" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.619047619048</data>
+    </edge>
+    <edge source="oven" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.181818181818</data>
+    </edge>
+    <edge source="dish" target="fun">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="dish" target="ed">
+      <data key="d4">6</data>
+      <data key="d5">0.333333333333</data>
+    </edge>
+    <edge source="corner" target="case">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="corner" target="stone">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="corner" target="remote">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="corner" target="violation">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="corner" target="student">
+      <data key="d4">6</data>
+      <data key="d5">0.142857142857</data>
+    </edge>
+    <edge source="chicken" target="broth">
+      <data key="d4">11</data>
+      <data key="d5">0.214285714286</data>
+    </edge>
+    <edge source="chicken" target="calamari">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="rhino" target="animal">
+      <data key="d4">10</data>
+      <data key="d5">0.677419354839</data>
+    </edge>
+    <edge source="rhino" target="horn">
+      <data key="d4">9</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="calamari" target="leek">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="calamari" target="black">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="calamari" target="liver">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="calamari" target="tony">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="calamari" target="sauce">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="calamari" target="goat">
+      <data key="d4">14</data>
+      <data key="d5">0.0666666666667</data>
+    </edge>
+    <edge source="toast" target="egg">
+      <data key="d4">27</data>
+      <data key="d5">0.0357142857143</data>
+    </edge>
+    <edge source="style" target="veal">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="position" target="gut">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="ham" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.230769230769</data>
+    </edge>
+    <edge source="hunting" target="bear">
+      <data key="d4">5</data>
+      <data key="d5">0.782608695652</data>
+    </edge>
+    <edge source="hunting" target="legal">
+      <data key="d4">6</data>
+      <data key="d5">0.647058823529</data>
+    </edge>
+    <edge source="hunting" target="research">
+      <data key="d4">8</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="cup" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="justice" target="apple">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="justice" target="deal">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="justice" target="big">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="justice" target="company">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="justice" target="tech">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="reserve" target="tiger">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="crime" target="animal">
+      <data key="d4">6</data>
+      <data key="d5">0.684210526316</data>
+    </edge>
+    <edge source="penalty" target="action">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="penalty" target="appropriate">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="penalty" target="plan">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="foursquare" target="day">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="foursquare" target="service">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="foursquare" target="gut">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="black" target="judge">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="rick" target="cuisine">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="easy" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.578947368421</data>
+    </edge>
+    <edge source="factor" target="important">
+      <data key="d4">6</data>
+      <data key="d5">0.454545454545</data>
+    </edge>
+    <edge source="factor" target="threat">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="factor" target="population">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="employee" target="apple">
+      <data key="d4">7</data>
+      <data key="d5">0.611111111111</data>
+    </edge>
+    <edge source="pocketbook" target="pneumonia">
+      <data key="d4">5</data>
+      <data key="d5">0.166666666667</data>
+    </edge>
+    <edge source="pocketbook" target="pm">
+      <data key="d4">5</data>
+      <data key="d5">0.166666666667</data>
+    </edge>
+    <edge source="east" target="big">
+      <data key="d4">17</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="sauce" target="cuisine">
+      <data key="d4">9</data>
+      <data key="d5">0.181818181818</data>
+    </edge>
+    <edge source="sauce" target="roast">
+      <data key="d4">9</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="interested" target="jun">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="interested" target="aggressive">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="interested" target="southern">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="interested" target="opposition">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="plate" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.181818181818</data>
+    </edge>
+    <edge source="coffee" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="good" target="bad">
+      <data key="d4">6</data>
+      <data key="d5">0.6</data>
+    </edge>
+    <edge source="good" target="friend">
+      <data key="d4">5</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="march" target="comment">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="combination" target="squad">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="food" target="cuisine">
+      <data key="d4">9</data>
+      <data key="d5">0.181818181818</data>
+    </edge>
+    <edge source="food" target="table">
+      <data key="d4">12</data>
+      <data key="d5">0.294117647059</data>
+    </edge>
+    <edge source="big" target="north">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="big" target="power">
+      <data key="d4">8</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="big" target="bid">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="big" target="football">
+      <data key="d4">9</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="big" target="director">
+      <data key="d4">5</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="big" target="squad">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="big" target="potential">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="bid" target="mountain">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="champion">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="addition">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="perspective">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="west">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="push">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="automatic">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="bid" target="trip">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="practice" target="squad">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="fat" target="cooking">
+      <data key="d4">5</data>
+      <data key="d5">0.583333333333</data>
+    </edge>
+    <edge source="choice" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="lunch" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.571428571429</data>
+    </edge>
+    <edge source="bean" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.272727272727</data>
+    </edge>
+    <edge source="perfect" target="gingerbread">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="perfect" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="world" target="habitat">
+      <data key="d4">7</data>
+      <data key="d5">0.805555555556</data>
+    </edge>
+    <edge source="bit" target="squad">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="trade" target="international">
+      <data key="d4">8</data>
+      <data key="d5">0.703703703704</data>
+    </edge>
+    <edge source="day" target="twitter">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="minute" target="water">
+      <data key="d4">11</data>
+      <data key="d5">0.592592592593</data>
+    </edge>
+    <edge source="minute" target="liquid">
+      <data key="d4">6</data>
+      <data key="d5">0.7</data>
+    </edge>
+    <edge source="bread" target="egg">
+      <data key="d4">17</data>
+      <data key="d5">0.291666666667</data>
+    </edge>
+    <edge source="loss" target="habitat">
+      <data key="d4">19</data>
+      <data key="d5">0.424242424242</data>
+    </edge>
+    <edge source="school" target="talent">
+      <data key="d4">5</data>
+      <data key="d5">0.848484848485</data>
+    </edge>
+    <edge source="school" target="program">
+      <data key="d4">5</data>
+      <data key="d5">0.75</data>
+    </edge>
+    <edge source="school" target="college">
+      <data key="d4">8</data>
+      <data key="d5">0.111111111111</data>
+    </edge>
+    <edge source="resource" target="official">
+      <data key="d4">5</data>
+      <data key="d5">0.761904761905</data>
+    </edge>
+    <edge source="resource" target="natural">
+      <data key="d4">9</data>
+      <data key="d5">0.625</data>
+    </edge>
+    <edge source="specie" target="endangered">
+      <data key="d4">11</data>
+      <data key="d5">0.607142857143</data>
+    </edge>
+    <edge source="specie" target="international">
+      <data key="d4">8</data>
+      <data key="d5">0.703703703704</data>
+    </edge>
+    <edge source="specie" target="destruction">
+      <data key="d4">8</data>
+      <data key="d5">0.555555555556</data>
+    </edge>
+    <edge source="success" target="potential">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="level" target="use">
+      <data key="d4">5</data>
+      <data key="d5">0.722222222222</data>
+    </edge>
+    <edge source="level" target="research">
+      <data key="d4">8</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="wine" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.68</data>
+    </edge>
+    <edge source="salmon" target="oyster">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="sandwich" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.538461538462</data>
+    </edge>
+    <edge source="morning" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.315789473684</data>
+    </edge>
+    <edge source="serious" target="population">
+      <data key="d4">5</data>
+      <data key="d5">0.705882352941</data>
+    </edge>
+    <edge source="common" target="cuisine">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="night" target="fun">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="night" target="event">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="small" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.677419354839</data>
+    </edge>
+    <edge source="stock" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.636363636364</data>
+    </edge>
+    <edge source="meal" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="turtle" target="nest">
+      <data key="d4">17</data>
+      <data key="d5">0.105263157895</data>
+    </edge>
+    <edge source="turtle" target="stick">
+      <data key="d4">13</data>
+      <data key="d5">0.235294117647</data>
+    </edge>
+    <edge source="turtle" target="august">
+      <data key="d4">9</data>
+      <data key="d5">0.470588235294</data>
+    </edge>
+    <edge source="newspaper" target="local">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="pork" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="official" target="management">
+      <data key="d4">5</data>
+      <data key="d5">0.761904761905</data>
+    </edge>
+    <edge source="people" target="country">
+      <data key="d4">5</data>
+      <data key="d5">0.893617021277</data>
+    </edge>
+    <edge source="ed" target="favorite">
+      <data key="d4">6</data>
+      <data key="d5">0.333333333333</data>
+    </edge>
+    <edge source="ed" target="line">
+      <data key="d4">6</data>
+      <data key="d5">0.333333333333</data>
+    </edge>
+    <edge source="ed" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.222222222222</data>
+    </edge>
+    <edge source="ed" target="hour">
+      <data key="d4">6</data>
+      <data key="d5">0.333333333333</data>
+    </edge>
+    <edge source="twitter" target="comment">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="bacon" target="spicy">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="bacon" target="egg">
+      <data key="d4">20</data>
+      <data key="d5">0.259259259259</data>
+    </edge>
+    <edge source="bacon" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="idea" target="event">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="yolk" target="egg">
+      <data key="d4">15</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="chef" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.434782608696</data>
+    </edge>
+    <edge source="chef" target="york">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="street" target="apple">
+      <data key="d4">8</data>
+      <data key="d5">0.272727272727</data>
+    </edge>
+    <edge source="lobster" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.730769230769</data>
+    </edge>
+    <edge source="year" target="problem">
+      <data key="d4">9</data>
+      <data key="d5">0.763157894737</data>
+    </edge>
+    <edge source="year" target="expert">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="tender" target="veal">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="sport" target="fox">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="sport" target="talent">
+      <data key="d4">5</data>
+      <data key="d5">0.75</data>
+    </edge>
+    <edge source="event" target="post">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="event" target="pat">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="event" target="south">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="man" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.76</data>
+    </edge>
+    <edge source="slice" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.357142857143</data>
+    </edge>
+    <edge source="network" target="veal">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="classy" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="cooking" target="information">
+      <data key="d4">6</data>
+      <data key="d5">0.647058823529</data>
+    </edge>
+    <edge source="cooking" target="fish">
+      <data key="d4">8</data>
+      <data key="d5">0.619047619048</data>
+    </edge>
+    <edge source="cooking" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.619047619048</data>
+    </edge>
+    <edge source="research" target="activity">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="increase" target="decline">
+      <data key="d4">5</data>
+      <data key="d5">0.722222222222</data>
+    </edge>
+    <edge source="increase" target="wildlife">
+      <data key="d4">5</data>
+      <data key="d5">0.722222222222</data>
+    </edge>
+    <edge source="spinach" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.222222222222</data>
+    </edge>
+    <edge source="state" target="department">
+      <data key="d4">7</data>
+      <data key="d5">0.730769230769</data>
+    </edge>
+    <edge source="state" target="program">
+      <data key="d4">5</data>
+      <data key="d5">0.75</data>
+    </edge>
+    <edge source="medicine" target="population">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="linebacker" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="red" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="body" target="tiger">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="body" target="part">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="core" target="business">
+      <data key="d4">11</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="pepper" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="business" target="gut">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="pear" target="gingerbread">
+      <data key="d4">9</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="pear" target="amazing">
+      <data key="d4">6</data>
+      <data key="d5">0.538461538462</data>
+    </edge>
+    <edge source="pear" target="ginger">
+      <data key="d4">10</data>
+      <data key="d5">0.285714285714</data>
+    </edge>
+    <edge source="pear" target="spice">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="team" target="firm">
+      <data key="d4">6</data>
+      <data key="d5">0.727272727273</data>
+    </edge>
+    <edge source="team" target="squad">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="team" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="french" target="egg">
+      <data key="d4">14</data>
+      <data key="d5">0.416666666667</data>
+    </edge>
+    <edge source="water" target="egg">
+      <data key="d4">23</data>
+      <data key="d5">0.651515151515</data>
+    </edge>
+    <edge source="wild" target="tiger">
+      <data key="d4">13</data>
+      <data key="d5">0.628571428571</data>
+    </edge>
+    <edge source="wild" target="decline">
+      <data key="d4">7</data>
+      <data key="d5">0.631578947368</data>
+    </edge>
+    <edge source="wild" target="number">
+      <data key="d4">5</data>
+      <data key="d5">0.857142857143</data>
+    </edge>
+    <edge source="reason" target="habitat">
+      <data key="d4">6</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="protection" target="habitat">
+      <data key="d4">7</data>
+      <data key="d5">0.588235294118</data>
+    </edge>
+    <edge source="kicker" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="news" target="president">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="post" target="blog">
+      <data key="d4">8</data>
+      <data key="d5">0.578947368421</data>
+    </edge>
+    <edge source="great" target="egg">
+      <data key="d4">16</data>
+      <data key="d5">0.636363636364</data>
+    </edge>
+    <edge source="piece" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.571428571429</data>
+    </edge>
+    <edge source="organic" target="hot">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="organic" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.1</data>
+    </edge>
+    <edge source="division" target="potential">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="country" target="cuisine">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="jay" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="job" target="firm">
+      <data key="d4">6</data>
+      <data key="d5">0.727272727273</data>
+    </edge>
+    <edge source="shrimp" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="dinner" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.454545454545</data>
+    </edge>
+    <edge source="abuse" target="pm">
+      <data key="d4">14</data>
+      <data key="d5">0.125</data>
+    </edge>
+    <edge source="place" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.787878787879</data>
+    </edge>
+    <edge source="massive" target="tiger">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="massive" target="illegal">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="threat" target="gut">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="threat" target="destruction">
+      <data key="d4">7</data>
+      <data key="d5">0.611111111111</data>
+    </edge>
+    <edge source="illegal" target="sale">
+      <data key="d4">5</data>
+      <data key="d5">0.75</data>
+    </edge>
+    <edge source="illegal" target="district">
+      <data key="d4">5</data>
+      <data key="d5">0.583333333333</data>
+    </edge>
+    <edge source="illegal" target="activity">
+      <data key="d4">9</data>
+      <data key="d5">0.64</data>
+    </edge>
+    <edge source="golden" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="love" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="family" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.739130434783</data>
+    </edge>
+    <edge source="extra" target="egg">
+      <data key="d4">8</data>
+      <data key="d5">0.272727272727</data>
+    </edge>
+    <edge source="simple" target="egg">
+      <data key="d4">11</data>
+      <data key="d5">0.266666666667</data>
+    </edge>
+    <edge source="sweet" target="egg">
+      <data key="d4">11</data>
+      <data key="d5">0.3125</data>
+    </edge>
+    <edge source="community" target="wildlife">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="community" target="local">
+      <data key="d4">6</data>
+      <data key="d5">0.454545454545</data>
+    </edge>
+    <edge source="county" target="case">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="county" target="department">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="appropriate" target="enforcement">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="appropriate" target="management">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="appropriate" target="population">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="cold" target="fun">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="delicious" target="beautiful">
+      <data key="d4">8</data>
+      <data key="d5">0.619047619048</data>
+    </edge>
+    <edge source="delicious" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.606060606061</data>
+    </edge>
+    <edge source="extinction" target="tiger">
+      <data key="d4">5</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="market" target="population">
+      <data key="d4">6</data>
+      <data key="d5">0.785714285714</data>
+    </edge>
+    <edge source="conference" target="president">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="decline" target="population">
+      <data key="d4">13</data>
+      <data key="d5">0.315789473684</data>
+    </edge>
+    <edge source="habitat" target="destruction">
+      <data key="d4">16</data>
+      <data key="d5">0.111111111111</data>
+    </edge>
+    <edge source="jet" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="area" target="important">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="addition" target="quixotic">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="west" target="dozen">
+      <data key="d4">9</data>
+      <data key="d5">0.307692307692</data>
+    </edge>
+    <edge source="warden" target="game">
+      <data key="d4">6</data>
+      <data key="d5">0.333333333333</data>
+    </edge>
+    <edge source="question" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="question" target="gut">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="long" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.6</data>
+    </edge>
+    <edge source="mark" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="creamy" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="way" target="fun">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="biggest" target="acquisition">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="conservation" target="effort">
+      <data key="d4">8</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="conservation" target="destruction">
+      <data key="d4">9</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="white" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.58064516129</data>
+    </edge>
+    <edge source="gut" target="attempt">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="gut" target="user">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="fish" target="department">
+      <data key="d4">9</data>
+      <data key="d5">0.653846153846</data>
+    </edge>
+    <edge source="friend" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="pm" target="jun">
+      <data key="d4">11</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="enforcement" target="law">
+      <data key="d4">10</data>
+      <data key="d5">0.285714285714</data>
+    </edge>
+    <edge source="ivory" target="elephant">
+      <data key="d4">23</data>
+      <data key="d5">0.28125</data>
+    </edge>
+    <edge source="ivory" target="population">
+      <data key="d4">10</data>
+      <data key="d5">0.6875</data>
+    </edge>
+    <edge source="mushroom" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="season" target="fun">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="park" target="national">
+      <data key="d4">19</data>
+      <data key="d5">0.366666666667</data>
+    </edge>
+    <edge source="tiger" target="border">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="stick" target="egg">
+      <data key="d4">12</data>
+      <data key="d5">0.294117647059</data>
+    </edge>
+    <edge source="olive" target="oil">
+      <data key="d4">8</data>
+      <data key="d5">0.272727272727</data>
+    </edge>
+    <edge source="olive" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="player" target="squad">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="bill" target="squad">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="soup" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.315789473684</data>
+    </edge>
+    <edge source="client" target="firm">
+      <data key="d4">5</data>
+      <data key="d5">0.666666666667</data>
+    </edge>
+    <edge source="fun" target="national">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="fun" target="broth">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="fried" target="scrambled">
+      <data key="d4">6</data>
+      <data key="d5">0.4</data>
+    </edge>
+    <edge source="acquisition" target="veteran">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="acquisition" target="misfit">
+      <data key="d4">21</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="money" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="brown" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.615384615385</data>
+    </edge>
+    <edge source="taste" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.615384615385</data>
+    </edge>
+    <edge source="cattle" target="district">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="share" target="squad">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="raw" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.444444444444</data>
+    </edge>
+    <edge source="tag" target="squad">
+      <data key="d4">7</data>
+      <data key="d5">0.3</data>
+    </edge>
+    <edge source="wonderful" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.5625</data>
+    </edge>
+    <edge source="breakfast" target="egg">
+      <data key="d4">36</data>
+      <data key="d5">0.0769230769231</data>
+    </edge>
+    <edge source="cream" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="cuisine" target="traditional">
+      <data key="d4">7</data>
+      <data key="d5">0.363636363636</data>
+    </edge>
+    <edge source="beef" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.473684210526</data>
+    </edge>
+    <edge source="member" target="dozen">
+      <data key="d4">8</data>
+      <data key="d5">0.384615384615</data>
+    </edge>
+    <edge source="endangered" target="animal">
+      <data key="d4">11</data>
+      <data key="d5">0.607142857143</data>
+    </edge>
+    <edge source="squad" target="lot">
+      <data key="d4">8</data>
+      <data key="d5">0.2</data>
+    </edge>
+    <edge source="forest" target="population">
+      <data key="d4">7</data>
+      <data key="d5">0.75</data>
+    </edge>
+    <edge source="animal" target="land">
+      <data key="d4">5</data>
+      <data key="d5">0.791666666667</data>
+    </edge>
+    <edge source="vegetable" target="egg">
+      <data key="d4">11</data>
+      <data key="d5">0.352941176471</data>
+    </edge>
+    <edge source="dozen" target="week">
+      <data key="d4">8</data>
+      <data key="d5">0.384615384615</data>
+    </edge>
+    <edge source="nice" target="veal">
+      <data key="d4">5</data>
+      <data key="d5">0.375</data>
+    </edge>
+    <edge source="nice" target="oyster">
+      <data key="d4">5</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="salad" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.357142857143</data>
+    </edge>
+    <edge source="yesterday" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.461538461538</data>
+    </edge>
+    <edge source="fresh" target="egg">
+      <data key="d4">13</data>
+      <data key="d5">0.48</data>
+    </edge>
+    <edge source="president" target="game">
+      <data key="d4">5</data>
+      <data key="d5">0.545454545455</data>
+    </edge>
+    <edge source="butter" target="veal">
+      <data key="d4">6</data>
+      <data key="d5">0.25</data>
+    </edge>
+    <edge source="attempt" target="yelp">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="potato" target="egg">
+      <data key="d4">26</data>
+      <data key="d5">0.103448275862</data>
+    </edge>
+    <edge source="tomato" target="egg">
+      <data key="d4">7</data>
+      <data key="d5">0.416666666667</data>
+    </edge>
+    <edge source="meat" target="egg">
+      <data key="d4">9</data>
+      <data key="d5">0.678571428571</data>
+    </edge>
+    <edge source="person" target="egg">
+      <data key="d4">6</data>
+      <data key="d5">0.5</data>
+    </edge>
+    <edge source="scrambled" target="egg">
+      <data key="d4">10</data>
+      <data key="d5">0.0</data>
+    </edge>
+    <edge source="first" target="egg">
+      <data key="d4">5</data>
+      <data key="d5">0.871794871795</data>
+    </edge>
+  </graph>
+</graphml>
