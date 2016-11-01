@@ -25,5 +25,5 @@ The resultant graph for each word contributes to a wide knowledge base that can 
 ### Contributors:
 * [Muhammad Arif](https://github.com/amarif1)
 * [Nafseer K](https://github.com/nafseerk)
-* Alphy Elsa Sebastian
-* Krishna Priya M
+* [Alphy Elsa Sebastian](https://github.com/alphyelsa)
+* [Krishna Priya M](https://github.com/krishnamuraleedharan)
