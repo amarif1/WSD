@@ -21,3 +21,9 @@ The resultant graph for each word contributes to a wide knowledge base that can 
 * BeautifulSoup4
 * Bleach
 * PyEnchant
+
+### Contributors:
+* [Muhammad Arif](https://github.com/amarif1)
+* [Nafseer K](https://github.com/nafseerk)
+* Alphy Elsa Sebastian
+* Krishna Priya M
